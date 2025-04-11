@@ -120,7 +120,7 @@ National Institute of Technology (NIT), Raipur, India | July 2007 – May 2011
 
 ## Professional Affiliations
 
-- **Amazon:** [aneshks@amazon.com](mailto:aneshks@amazon.com)
+- **Amazon:** [aneshks@amazon.com](mailto:xyz@amazon.com)
 - **IEEE:** IEEE Member #101089369  
 - **INFORM:** Member ID: 1984525  
 - **Additional Involvements:** Active participant in professional organizations and committees focused on data science, machine learning, and healthcare analytics. Regular contributor to seminars and workshops advancing data-driven research and academic-industry partnerships.
